@@ -227,6 +227,7 @@ h3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
+
 }
 
 @media (min-width: 1024px) {
@@ -234,6 +235,7 @@ h3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
+
 }
 
 .card {
